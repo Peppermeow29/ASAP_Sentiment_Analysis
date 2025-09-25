@@ -57,7 +57,7 @@ Moudle/
 
 ## 贡献者
 感谢以下贡献者为本项目付出的努力：
-[Horizon-Leo - Overview](https://github.com/Horizon-Leo)
+[Horizon-Leo - Overview](https://github.com/peppermeow29)
 ## 许可证
 本项目遵循MIT许可证，详细内容请参考LICENSE文件。
 ## 交流与反馈
@@ -65,4 +65,5 @@ Moudle/
 + 提交Issue：暂无
 + 加入QQ群：暂无（验证信息：）  
 再次感谢您对本项目的关注与支持，希望我们共同努力构建最强的分析模型！
+
 
